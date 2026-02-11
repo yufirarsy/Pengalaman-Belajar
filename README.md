@@ -5,3 +5,4 @@ Pada hari Minggu saya mulai belajar (progres 21%)
 
 Pada hari Senin saya melanjutkan belajar (progres 56%)
 * Mengenal GitHub
+Selesai
