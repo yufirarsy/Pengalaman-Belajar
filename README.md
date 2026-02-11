@@ -1,3 +1,2 @@
 # Pengalaman-Belajar
-
-Seru sekali belajar github
+Github seru
